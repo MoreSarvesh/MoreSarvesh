@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarvesh More</h1>
 <h3 align="center">A tech enthusiast building things that run on the Computers.</h3>
 
-- 🌱 I’m currently learning **Backend development in Java.**
-
 - 📫 How to reach me **sarveshmore1324@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
